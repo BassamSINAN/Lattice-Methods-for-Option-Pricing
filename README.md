@@ -1,2 +1,2 @@
 # Option-Pricing
-A diverse set of tools for option pricing
+A binomial and trinomial approach for option pricing
